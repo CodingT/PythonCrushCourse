@@ -1,0 +1,4 @@
+With Python you can get random
+With Python you can import modules and classes
+With Python you can read and write in to files
+With Python you can Hack the World!

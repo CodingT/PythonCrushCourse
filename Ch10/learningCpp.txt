@@ -1,0 +1,4 @@
+With C++ you can get random
+With C++ you can import modules and classes
+With C++ you can read and write in to files
+With C++ you can Hack the World!
