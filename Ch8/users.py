@@ -9,8 +9,3 @@ def build_profile(first, last, **other):
 
 user_profile = build_profile('mark', 'smith', age = 25, ocupation = 'it')
 print(user_profile)
-
-
-from functions import make_great as mg
-
-mg(user_profile)
