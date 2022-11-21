@@ -27,4 +27,3 @@ hist.y_title = "Frequrency of Result"
 
 hist.add("D6 X D6", frequencies)
 hist.render_to_file('multiDice_visual.svg')
-
